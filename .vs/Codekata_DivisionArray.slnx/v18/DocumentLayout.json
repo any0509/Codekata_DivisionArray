@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitStudy\\Codekata_DivisionArray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{465727EF-F075-48C8-A8F1-B0595E8BAA27}|Codekata_DivisionArray\\Codekata_DivisionArray.vcxproj|C:\\GitStudy\\Codekata_DivisionArray\\Codekata_DivisionArray\\solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{465727EF-F075-48C8-A8F1-B0595E8BAA27}|Codekata_DivisionArray\\Codekata_DivisionArray.vcxproj|solutionrelative:Codekata_DivisionArray\\solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "solution.cpp",
+              "DocumentMoniker": "C:\\GitStudy\\Codekata_DivisionArray\\Codekata_DivisionArray\\solution.cpp",
+              "RelativeDocumentMoniker": "Codekata_DivisionArray\\solution.cpp",
+              "ToolTip": "C:\\GitStudy\\Codekata_DivisionArray\\Codekata_DivisionArray\\solution.cpp",
+              "RelativeToolTip": "Codekata_DivisionArray\\solution.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-26T03:33:04.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
